@@ -18,7 +18,7 @@ Working with big numbers
 | `n`  | nano | 0.000000001  | billionth | -9
 | `µ`  | micro | 0.000001  | millionth | -6
 | `m`  | milli | 0.001  | thousandth | -3
-| `K`  | kilo | 1,000  | thousand | 3
+| `k`  | kilo | 1,000  | thousand | 3
 | `M`  | mega | 1,000,000  | million | 6
 | `G`  | giga | 1,000,000,000  | billion | 9
 | `T`  | tera | 1,000,000,000,000  | trillion | 12
@@ -41,7 +41,7 @@ Working with big numbers
 ### Frequency Spectrum
 
 - Sound → Radio → Heat → Infra-red → Light → Ultra-violet → X-Ray (↑ frequency)
-- Useful radio frequencies range from about `10 KHz` to beyond `30 GHz`
+- Useful radio frequencies range from about `10 kHz` to beyond `30 GHz`
 - Each part of the radio frequency spectrum has its own characteristics
 - Only a small range of frequencies are suitable for certain popular activities
 - Frequencies that are capable of traveling around the world are subjected to world wide controls
