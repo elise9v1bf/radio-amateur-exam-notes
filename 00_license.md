@@ -7,7 +7,7 @@
 - **ITC** is International Telecommunication Convention
 - **ITU** is International Telecommunication Union
 - **ERP** is Effective radiated power
-- **PEP** is Peak Emission Power
+- **PEP** is Peak Envelope Power
 - **Teleprinter / teletypewriter / Teletype / TTY** is an electromechanical typewriter that can be used to send and receive typed messages from point to point and point to multipoint over various types of communications channels
 - **Telephony** is the field of technology involving the development, application, and deployment of telecommunication services for the purpose of electronic transmission of voice, fax, or data, between distant parties.
 - **RTTY** is Radio Teleprinter
@@ -38,22 +38,21 @@
 - **Amateur Station Licence** for operating radio transmission/reception equipment.
 - pass **Radio Amateur's Examination** or qualification that is acceptable to IMDA
 - IMDA may refuse without any reason
-- Apply online via **Telcom Licensing System**
+- Apply online via **GoBusiness Licensing**
 - Documents required: citizenship, results of the exam / valid cert, station license
 - do not purchase equipment until it is approved
 
 ### License fee
 
 - license is **renewable every 5 years**
-- license fee currently is $100
+- license fee currently is $100 for General Class or $50 for Resitricted Class 
 - license fee must be **paid within 7 days of expiry** of the license
   - Late fees will be applicable afterwards.
 - IMDA has waived the frequency application, processing fee and annual frequency usage fee
 
 ##### Important note:
 - Admittedly, as of now, the exam is very old.
-- Also, the current 2016 IMDA Handbook still reflects that the license is renewable **annually** and fee is **$50**
-- Please check the IDA Handbook for any updates pertaining to changes in syllabus or regulations.
+- Please check the IMDA Handbook for any updates pertaining to changes in syllabus or regulations.
   - Advised to follow latest IMDA Handbook in regards to this.
 
 ### Amateur Station License
@@ -64,7 +63,7 @@
 
 ### Operation of an Amateur Ratio Station
 
-- Observer and comply with
+- Observe and comply with
 	- relevant provisions of the Telecommunications (Radio-communication) Regulations
 	- relevant provisions of the Radio Regulations of the ITC
 - amateur station license shall be displayed, in close proximity of the equipment, at the station's licensed address
@@ -80,7 +79,7 @@
 ### Operational conditions for the Station
 
 - operated at locations approved by IMDA
-- operated in the presence of the licensee
+- operated by persons named in the Licence
 - licensee will be responsible for the proper operations of the station
 - tuning of the transmitter must ensure a **high degree of accuracy**
 - all emissions must be **within the authorised bands**
